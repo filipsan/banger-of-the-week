@@ -1,3 +1,6 @@
+Developed by Melker Duberg & Filip Sandström
+
+
 # banger-of-the-week
 
 ## Project description
